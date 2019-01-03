@@ -266,7 +266,7 @@
     semver "^5.3.0"
     semver-intersect "^1.1.2"
 
-"@types/dragula@2.1.34", "@types/dragula@^2.1.34":
+"@types/dragula@^2.1.34":
   version "2.1.34"
   resolved "https://registry.yarnpkg.com/@types/dragula/-/dragula-2.1.34.tgz#48ecf8627860e6179efc222dd5390b37dbd42d9d"
   integrity sha512-tZbauiqJgEpKKtBQI8pQ24FrkDNGhiXCFsygqQPeAJTPJJC1RI0BOmHv7VHI9qDehhXXffq9aJEUhqEQyY/PVA==
@@ -2790,9 +2790,9 @@ double-ended-queue@^2.1.0-0:
   version "2.1.0-0"
   resolved "https://registry.yarnpkg.com/double-ended-queue/-/double-ended-queue-2.1.0-0.tgz#103d3527fd31528f40188130c841efdd78264e5c"
 
-dragula@^3.7.2:
+"dragula@github:don-miguel/dragula#canvas-support":
   version "3.7.2"
-  resolved "https://registry.yarnpkg.com/dragula/-/dragula-3.7.2.tgz#4a35c9d3981ffac1a949c29ca7285058e87393ce"
+  resolved "https://codeload.github.com/don-miguel/dragula/tar.gz/30b3ede3e4741f79dc4891cabed302eb4f8be19c"
   dependencies:
     contra "1.9.4"
     crossvent "1.5.4"
